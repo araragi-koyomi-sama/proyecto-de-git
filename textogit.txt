@@ -1,2 +1,3 @@
 este es un archivo de texto que estoy usando en mi 
 curso de git en platzi
+todo empieza con la mejor madre del mundo
